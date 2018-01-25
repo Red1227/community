@@ -42,7 +42,7 @@ Environment because Stackdriver Logging support is built-in. See
 You can [view the logs][logs] for your Ghost blog in the Google Cloud Platform
 Console.
 
-[logging]: https://cloud.google.com/logging/
+[logging]: https://cloud.google.com/logging/a
 [gae_logging]: https://cloud.google.com/appengine/articles/logging
 [logs]: https://console.cloud.google.com/logs?service=appengine.googleapis.com
 
